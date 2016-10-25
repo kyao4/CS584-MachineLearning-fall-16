@@ -2,7 +2,7 @@ This is the repo for cs584 fall 2016 project.
 
 # Pokemon Generation Prediction
 
-Members: Kai Yao, Zhaolei Fang
+Members: Kai Yao
 
 Dataset: [Pokemon](https://www.kaggle.com/abcsds/pokemon)
 
