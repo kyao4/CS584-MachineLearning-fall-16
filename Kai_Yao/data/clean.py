@@ -6,7 +6,7 @@ Created on 2016年9月19日
 import csv
 
 def main():
-    with open('Pokemon.csv', newline='') as csvfile:
+    with open('Pokemon_raw.csv', newline='', encoding='utf-8') as csvfile:
         spamreader = csv.reader(csvfile, delimiter=',', quotechar='\"')
         myList = []
         for each in spamreader:
@@ -38,7 +38,7 @@ def main():
 #                     continue
             pokemon = [num, Name, Type1, Type2 , Total, HP, Attack, ATTSP, DEFSP, Speed, Generation, Lengendary]
             myList.append(pokemon) 
-        with open('output.csv', 'w', newline='') as csvfile:
+        with open('Pokemon_output.csv', 'w', newline='', encoding='utf-8') as csvfile:
             spamwriter = csv.writer(csvfile, delimiter=',')
             for item in myList:
                 spamwriter.writerow(item)

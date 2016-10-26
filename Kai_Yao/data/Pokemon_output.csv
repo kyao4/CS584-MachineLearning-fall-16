@@ -89,6 +89,7 @@
 80,SlowbroMega Slowbro,Water,Psychic,590,95,75,180,130,80,30,1
 81,Magnemite,Electric,Steel,325,25,35,70,95,55,45,1
 82,Magneton,Electric,Steel,465,50,60,95,120,70,70,1
+83,Farfetch'd,Normal,Flying,352,52,65,55,58,62,60,1
 84,Doduo,Normal,Flying,310,35,85,45,35,35,75,1
 85,Dodrio,Normal,Flying,460,60,110,70,60,60,100,1
 86,Seel,Water,'?',325,65,45,55,45,70,45,1
@@ -268,6 +269,7 @@
 248,Tyranitar,Rock,Dark,600,100,134,110,95,100,61,2
 248,TyranitarMega Tyranitar,Rock,Dark,700,100,164,150,95,120,71,2
 249,Lugia,Psychic,Flying,680,106,90,130,90,154,110,2
+250,Ho-oh,Fire,Flying,680,106,130,90,110,154,90,2
 251,Celebi,Psychic,Grass,600,100,100,100,100,100,100,2
 252,Treecko,Grass,'?',310,40,45,35,65,55,70,3
 253,Grovyle,Grass,'?',405,50,65,45,85,65,95,3
@@ -522,6 +524,7 @@
 471,Glaceon,Ice,'?',525,65,60,110,130,95,65,4
 472,Gliscor,Ground,Flying,510,75,95,125,45,75,95,4
 473,Mamoswine,Ice,Ground,530,110,130,80,70,60,80,4
+474,Porygon-Z,Normal,'?',535,85,80,70,135,75,90,4
 475,Gallade,Psychic,Fighting,518,68,125,65,65,115,80,4
 475,GalladeMega Gallade,Psychic,Fighting,618,68,165,95,65,115,110,4
 476,Probopass,Rock,Steel,525,60,55,145,75,150,40,4
@@ -790,6 +793,7 @@
 715,Noivern,Flying,Dragon,535,85,70,80,97,80,123,6
 716,Xerneas,Fairy,'?',680,126,131,95,131,98,99,6
 717,Yveltal,Dark,Flying,680,126,131,95,131,98,99,6
+718,Zygarde50% Forme,Dragon,Ground,600,108,100,121,81,95,95,6
 719,Diancie,Rock,Fairy,600,50,100,150,100,150,50,6
 719,DiancieMega Diancie,Rock,Fairy,700,50,160,110,160,110,110,6
 720,HoopaHoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,6
