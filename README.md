@@ -1,16 +1,16 @@
 This is the repo for cs584 fall 2016 project.
 
-# Pokemon Generation Prediction
+# Legendary Pokemon Prediction
 
 Members: Kai Yao
 
 Dataset: [Pokemon](https://www.kaggle.com/abcsds/pokemon)
 
-Goal: predict the generation from attributes of each pokenmon.
+Goal: predict the legendary pokemon from attributes of each pokemon.
 
 
 Description:
-1. I am going to use the dataset that I downloaded from kaggle. This is a pokemon dataset with attributes like the HP, CP, attack speed, defense speed, type, generation of the pokemon. I decided to use these attributes to predict the generation for the pokemons. In general, the higher HP or CP a pokemon has, the higher its generation is. We can use project to verify this assumption.
+1. I am going to use the dataset that I downloaded from kaggle. This is a pokemon dataset with attributes like the HP, CP, attack speed, defense speed, type, generation of the pokemon. I decided to use these attributes to predict the Legendary for the pokemons. In general, the higher HP or CP a pokemon has, the higher its Legendary Degree is. We can use project to verify this assumption.
 
 2.No, the problem is not posted on the website.
 
